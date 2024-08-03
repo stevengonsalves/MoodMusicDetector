@@ -1,0 +1,3 @@
+install requirements
+change PC name in settings.py
+downgrade protobuf to 3.20
